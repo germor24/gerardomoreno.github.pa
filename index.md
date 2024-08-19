@@ -1,123 +1,47 @@
----
-layout: default
----
+# Researcher in Artificial intelligence and Motion Capture
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+#### Technical Skills: Python, SQL, Databricks, Unity, MATLAB
 
-[Link to another page](./another-page.html).
+## Education 			        		
+- B.S., Systems and Computer Engineering | Technological University of Panama (_June 2024_)
 
-There should be whitespace between paragraphs.
+## Work Experience
+**Data Engineer @ Copa Airlines (_July 2023 - Present_)**
+- Development of intelligent solutions for the transformation and filtering of valuable data through SQL queries and Dataiku's data management system.
+- Application of concepts and methodologies for executing service migrations within the Databricks platform.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Projects
+### Comparison of intrusive and non-intrusive motion capture technologies for upper body kinematic analysis.
+[Publication](https://laccei.org/LACCEI2023-BuenosAires/meta/FP745.html)
 
-# Header 1
+The adaptability of machine vision solutions for motion capture has generated an interest in determining whether markerless capture methods can achieve a level of accuracy particularly similar to capture techniques with passive or active markers, being an essential factor in the identification and treatment of motor weaknesses in physiotherapeutic fields. In this sense, the aim of this work is to perform a comparison of two motion capture techniques: intrusive and non-intrusive, using the **3D tracking systems OptiTrack and MediaPipe** to determine the performance of markerless pose estimation in obtaining the ranges of motion of the upper body of a person.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+![OptiTrack Mediapipe Comparison](/assets/img/OptiTrack_MediaPipe.png)
 
-## Header 2
+### Nonintrusive virtual trainer prototype for exercise routines in unity using motion capture.
+[Publication](https://ojs.urepublicana.edu.co/index.php/ingenieria/article/view/875)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Virtuality is an innovative process seen in recent years. This process allows transforming scenarios to a virtual environment for simulations, practices, or tests so that all results can be studied. In turn, these environments can be supported by new tools and methodologies that increase the analysis capabilities, such as motion capture to generate animations, tracking of robotic equipment and the study of human movement, which benefits the development of systems with these objectives. A prototype of a nonintrusive virtual trainer capable of capturing motion and determining the correct execution of exercise routines is presented, using a **virtual environment developed in the Unity video game engine**. The system employs a SHDR webcam for real-time capture of the movement performed by the user, which is processed to track the pose and joints using Machine Learning through the MediaPipe library. This article explains the construction of the prototype and presents the results of the project.
 
-### Header 3
+![Mocap Virtual Trainer](/assets/img/exercise_mediapipe.png)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Publications
+1. G. Moreno Urriola, C. Pinzon, and M. Ferre, Comparison of intrusive and non-intrusive motion capture technologies for upper body kinematic analysis. 2023. Congreso 21st LACCEI. [doi](https://dx.doi.org/10.18687/LACCEI2023.1.1.745).
+2. G. Moreno Urriola, C. Pinzon, and M. Ferre, Data simulation of an exoskeleton in upper limb rehabilitation tasks. 2023. Prisma Tecnológico. 14. 87-93. [doi](https://doi.org/10.33412/pri.v14.1.3544).
+3. C. Pinzon, G. Moreno & M. Bonilla. Nonintrusive virtual trainer prototype for exercise routines in unity using motion capture. 2023. Revista Ingeniería, Matemáticas y Ciencias de la Información. doi: 10. 13-20. [doi](http://dx.doi.org/10.21017/rimci.2023.v10.n19.a125).
+4. G. Moreno, D. D. Togna, C. Gonzales and C. P. Trejos, Low-cost exoskeleton prototype to support people with monoplegia problems in the upper limbs. 2023. VI Congreso Internacional en Inteligencia Ambiental, Ingeniería de Software y Salud Electrónica y Móvil (AmITIC), Cali, Colombia, 2023, pp. 1-5. [doi](https://doi.org/10.1109/AmITIC60194.2023.10366352).
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## International research experience
+### Research Internship at the Polytechnic University of Madrid, Spain. 2022.
+- Research stay at the Centre For Automation and Robotics (UPM - CSIC) in the Polytechnic University of Madrid, Spain focused on the development of projects with virtual environments, motion capture, simulation and robotics.
+- Participation in the Open Doors Session of the Escuela Técnica Superior de Ingenieros Industriales - "Presentation of the LuxBit exoskeleton during a research stay at the Polytechnic University of Madrid, CAR".
 
-#### Header 4
+![Madrid experience](/assets/img/luxbit_manuel.jpg)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### International Judge at the World Robotics Olympics (WRO) Dortmund, Germany. 2022.
+- Evaluator of the Future Innovators Elementary category with studies focused on programming applied to real environments.
+- Inspection of components and microcontrollers integrated to robotic equipment.
 
-##### Header 5
+![Germany experience](/assets/img/wro_robotics.jpg)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- [Google Scholar Profile](https://scholar.google.es/citations?user=jS8lVAYAAAAJ&hl=en)
