@@ -1,150 +1,47 @@
-# The Minimalist theme
+# Researcher in Artificial intelligence and Motion Capture
 
-*Minimalist is a Jekyll theme, inspired by the [Minimal](https://github.com/pages-themes/minimal) theme from GitHub. You can [preview the theme to see what it looks like](http://bdhu.github.io/minimalist), or even [use it today](#usage).*
+#### Technical Skills: Python, SQL, Databricks, Unity, MATLAB
 
-![Demo of Minimalist](https://raw.githubusercontent.com/BDHU/minimalist/main/minimalist.png)
+## Education 			        		
+- B.S., Systems and Computer Engineering | Technological University of Panama (_June 2024_)
 
-## Usage
+## Work Experience
+**Data Engineer @ Copa Airlines (_July 2023 - Present_)**
+- Development of intelligent solutions for the transformation and filtering of valuable data through SQL queries and Dataiku's data management system.
+- Application of concepts and methodologies for executing service migrations within the Databricks platform.
 
-### Docker
+## Projects
+### Comparison of intrusive and non-intrusive motion capture technologies for upper body kinematic analysis.
+[Publication](https://laccei.org/LACCEI2023-BuenosAires/meta/FP745.html)
 
-The simplest way is to use a Docker container. For Docker installation instructions, please refer to the offical Docker [docs](https://docs.docker.com/engine/install/). After successful installation, simply execute:
+The adaptability of machine vision solutions for motion capture has generated an interest in determining whether markerless capture methods can achieve a level of accuracy particularly similar to capture techniques with passive or active markers, being an essential factor in the identification and treatment of motor weaknesses in physiotherapeutic fields. In this sense, the aim of this work is to perform a comparison of two motion capture techniques: intrusive and non-intrusive, using the **3D tracking systems OptiTrack and MediaPipe** to determine the performance of markerless pose estimation in obtaining the ranges of motion of the upper body of a person.
 
-```bash
-./deploy.sh
-```
+![OptiTrack Mediapipe Comparison](/assets/img/OptiTrack_MediaPipe.png)
 
-### Other Methods
+### Nonintrusive virtual trainer prototype for exercise routines in unity using motion capture.
+[Publication](https://ojs.urepublicana.edu.co/index.php/ingenieria/article/view/875)
 
-To use the Minimalist theme:
+Virtuality is an innovative process seen in recent years. This process allows transforming scenarios to a virtual environment for simulations, practices, or tests so that all results can be studied. In turn, these environments can be supported by new tools and methodologies that increase the analysis capabilities, such as motion capture to generate animations, tracking of robotic equipment and the study of human movement, which benefits the development of systems with these objectives. A prototype of a nonintrusive virtual trainer capable of capturing motion and determining the correct execution of exercise routines is presented, using a **virtual environment developed in the Unity video game engine**. The system employs a SHDR webcam for real-time capture of the movement performed by the user, which is processed to track the pose and joints using Machine Learning through the MediaPipe library. This article explains the construction of the prototype and presents the results of the project.
 
-1. Add the following line to your Gemfile
+![Mocap Virtual Trainer](/assets/img/exercise_mediapipe.png)
 
-```ruby
-gem "jekyll-remote-theme"
-```
+## Publications
+1. G. Moreno Urriola, C. Pinzon, and M. Ferre, Comparison of intrusive and non-intrusive motion capture technologies for upper body kinematic analysis. 2023. Congreso 21st LACCEI. [doi](https://dx.doi.org/10.18687/LACCEI2023.1.1.745).
+2. G. Moreno Urriola, C. Pinzon, and M. Ferre, Data simulation of an exoskeleton in upper limb rehabilitation tasks. 2023. Prisma Tecnológico. 14. 87-93. [doi](https://doi.org/10.33412/pri.v14.1.3544).
+3. C. Pinzon, G. Moreno & M. Bonilla. Nonintrusive virtual trainer prototype for exercise routines in unity using motion capture. 2023. Revista Ingeniería, Matemáticas y Ciencias de la Información. doi: 10. 13-20. [doi](http://dx.doi.org/10.21017/rimci.2023.v10.n19.a125).
+4. G. Moreno, D. D. Togna, C. Gonzales and C. P. Trejos, Low-cost exoskeleton prototype to support people with monoplegia problems in the upper limbs. 2023. VI Congreso Internacional en Inteligencia Ambiental, Ingeniería de Software y Salud Electrónica y Móvil (AmITIC), Cali, Colombia, 2023, pp. 1-5. [doi](https://doi.org/10.1109/AmITIC60194.2023.10366352).
 
-then run `bundle install` to install the plugin.
+## International research experience
+### Research Internship at the Polytechnic University of Madrid, Spain. 2022.
+- Research stay at the Centre For Automation and Robotics (UPM - CSIC) in the Polytechnic University of Madrid, Spain focused on the development of projects with virtual environments, motion capture, simulation and robotics.
+- Participation in the Open Doors Session of the Escuela Técnica Superior de Ingenieros Industriales - "Presentation of the LuxBit exoskeleton during a research stay at the Polytechnic University of Madrid, CAR".
 
-2. Add the following to your site's `_config.yml` to activate the plugin:
+![Madrid experience](/assets/img/luxbit_manuel.jpg)
 
-```yml
-plugins:
-  - jekyll-remote-theme
-```
+### International Judge at the World Robotics Olympics (WRO) Dortmund, Germany. 2022.
+- Evaluator of the Future Innovators Elementary category with studies focused on programming applied to real environments.
+- Inspection of components and microcontrollers integrated to robotic equipment.
 
-Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key instead of `plugins`.
+![Germany experience](/assets/img/wro_robotics.jpg)
 
-3. Add the following line to your `config.yml` to use the theme
-
-```yml
-remote_theme: BDHU/minimalist
-```
-
-then running `bundle exec jekyll serve` for local deployment. Here is a [demo](https://github.com/BDHU/bdhu.github.io) using this theme.
-
-An example `_config.yml` file can be found [here](https://github.com/BDHU/bdhu.github.io/blob/master/_config.yml). More info can be found at [Jekyll Remote Theme](https://github.com/benbalter/jekyll-remote-theme).
-
-## Customizing
-
-### Configuration variables
-
-Minimalist will respect the following variables, if set in your site's `_config.yml`:
-
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
-
-Additionally, you may choose to set the following optional variables:
-
-```yml
-google_analytics: [Your Google Analytics tracking ID]
-```
-
-Choose light, dark, or automatically adjusting theme based on system theme:
-
-```yml
-color-scheme: auto/light/dark
-```
-
-Specify logo for the website:
-
-```yml
-logo: /assets/img/<logo_file>
-```
-
-Enable favicon by putting a `favicon.ico` in the repo's root directory and add the following line in `config.yml`:
-
-```yml
-favicon: true
-```
-
-### Customizing Sidebar
-
-You can define a list of platforms that are linked from the sidebar in `_config.yml`:
-
-```yml
-sidebar:
-  - name: Google Scholar
-    icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5L12 0l12 9.5l-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14a7 7 0 0 0 0-14z" fill="currentColor"/></svg>
-    link: https://scholar.google.com/citations?user=zR6afi8AAAAJ
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/BDHU
-  - ...
-```
-
-For further customization of the sidebar, go to [sidebar.html](https://github.com/BDHU/minimalist/blob/main/_includes/sidebar.html) in this repo and modify it however you like. The [link-mobile.html](https://github.com/BDHU/minimalist/blob/main/_includes/links-mobile.html) customizes the sidebar's look on mobile devices. This example uses fonts from [font awesome](https://fontawesome.com) and [Iconify](https://iconify.design/). Feel free to explore/find other sources.
-
-### Stylesheet
-
-If you'd like to add your own custom styles:
-
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-
-    ```scss
-    ---
-    ---
-
-    @import "{{ site.theme }}";
-    ```
-
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
-
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
-
-### Layouts
-
-If you'd like to change the theme's HTML layout:
-
-1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/BDHU/minimalist/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/BDHU/minimalist/blob/master/_layouts/default.html).
-2. For more extensive changes, [copy the original template](https://github.com/BDHU/minimalist/blob/master/_layouts/default.html) from the theme's repository<br/>(*Pro-tip: click "raw" to make copying easier*)
-3. Create a file called `/_layouts/default.html` in your site
-4. Paste the default layout content copied in the first step
-5. Customize the layout as you'd like
-
-For example, this [repository](https://github.com/BDHU/bdhu.github.io) shows how customizations are made on the original theme.
-
-### Customizing Google Analytics code
-
-Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
-
-## Previewing the theme locally
-
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
-
-1. Clone down the theme's repository (`git clone https://github.com/BDHU/minimalist`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
-
-## Running tests
-
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
-
-## Contributors
-
-Special thanks to [@godalming123](https://github.com/godalming123) for adding dark mode support. Also thank [@solvaholic](https://github.com/solvaholic), [@tildehacker](https://github.com/tildehacker), and other contributors for making multiple bug fixes and improvements. All contributions are welcome.
+- [Google Scholar Profile](https://scholar.google.es/citations?user=jS8lVAYAAAAJ&hl=en)
