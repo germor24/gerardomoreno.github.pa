@@ -6,7 +6,7 @@
 - B.S., Systems and Computer Engineering | Technological University of Panama (_June 2024_)
 
 ## Work Experience
-**Research intern @ Centre For Automation and Robotics (UPM - CSIC)
+**Research intern @ Centre For Automation and Robotics UPM - CSIC (__January 2022 - April 2022__)**
 - Worked on the development of virtual environments supported by motion capture for the study of upper body kinematics.
 - Study of musculoskeletal movements supported by exoskeletons for the analysis of trajectories with respect to standard.
 **Data Engineer @ Copa Airlines (_July 2023 - Present_)**
