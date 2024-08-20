@@ -44,4 +44,6 @@ Virtuality is an innovative process seen in recent years. This process allows tr
 
 ![Germany experience](/assets/img/wro_robotics.jpg)
 
-- [Google Scholar Profile](https://scholar.google.es/citations?user=jS8lVAYAAAAJ&hl=en)
+### Reviewer in the Latin American and Caribbean Consortium of Engineering Institutions, Argentina. 2023-2024.
+- Participation as Article Reviewer in the Technical Committee of the Latin American and Caribbean Consortium of Engineering Institutions (LACCEI), 2023 - 2024.
+- Track chairs member in the subjects of Sustainable Engineering for a Diverse, Equitable, and Inclusive Future at the Service of Education, Research, and Industry for a Society 5.0. 2024.
