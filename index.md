@@ -8,7 +8,7 @@
 ## Work Experience
 **Research intern @ Centre For Automation and Robotics UPM - CSIC (_January 2022 - April 2022_)**
 - Worked on the development of virtual environments supported by motion capture for the study of upper body kinematics.
-- Study of musculoskeletal movements supported by exoskeletons for the analysis of trajectories with respect to standard.
+- Study of human musculoskeletal movements with exoskeletons for the analysis of trajectories with respect to standard.
 
 **Data Engineer @ Copa Airlines (_July 2023 - Present_)**
 - Development of intelligent solutions for the transformation and filtering of valuable data through SQL queries and Dataiku's data management system.
