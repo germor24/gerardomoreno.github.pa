@@ -6,6 +6,9 @@
 - B.S., Systems and Computer Engineering | Technological University of Panama (_June 2024_)
 
 ## Work Experience
+**Research intern @ Centre For Automation and Robotics (UPM - CSIC)
+- Worked on the development of virtual environments supported by motion capture for the study of upper body kinematics.
+- Study of musculoskeletal movements supported by exoskeletons for the analysis of trajectories with respect to standard.
 **Data Engineer @ Copa Airlines (_July 2023 - Present_)**
 - Development of intelligent solutions for the transformation and filtering of valuable data through SQL queries and Dataiku's data management system.
 - Application of concepts and methodologies for executing service migrations within the Databricks platform.
