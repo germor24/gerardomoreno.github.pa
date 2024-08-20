@@ -174,11 +174,11 @@ strong {
 }
 
 section {
-  width: 610px;
-  float:right;
-  padding-bottom:30px;
-  margin-left: 320px;
+  margin-left: 250px; /* Match the sidebar's width */
+  width: calc(100% - 270px); /* Sidebar width + extra margin or padding */
+  padding-bottom: 30px;
 }
+
 
 small {
   font-size:11px;
