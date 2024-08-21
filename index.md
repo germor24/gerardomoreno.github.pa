@@ -10,7 +10,7 @@
 - Worked on the development of virtual environments supported by motion capture for the study of upper body kinematics.
 - Study of human musculoskeletal movements with exoskeletons for the analysis of trajectories with respect to standard.
 
-**Data Engineer @ Copa Airlines (_July 2023 - Present_)**
+**BI Consultant @ Copa Airlines (_July 2023 - Present_)**
 - Development of intelligent solutions for the transformation and filtering of valuable data through SQL queries and Dataiku's data management system.
 - Application of concepts and methodologies for executing service migrations within the Databricks platform.
 
@@ -38,7 +38,7 @@ Virtuality is an innovative process seen in recent years. This process allows tr
 ## International research experience
 ### Research Internship at the Polytechnic University of Madrid, Spain. 2022.
 - Research stay at the Centre For Automation and Robotics (UPM - CSIC) in the Polytechnic University of Madrid, Spain focused on the development of projects with virtual environments, motion capture, simulation and robotics.
-- Participation in the Open Doors Session of the Escuela Técnica Superior de Ingenieros Industriales - "Presentation of the LuxBit exoskeleton during a research stay at the Polytechnic University of Madrid, CAR".
+- Participation in the Open Doors Session of the School of Industrial Engineering - "Presentation of the LuxBit exoskeleton during a research stay at the Polytechnic University of Madrid, CAR".
 
 ![Madrid experience](/assets/img/luxbit_manuel.jpg)
 
