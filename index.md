@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Databricks, Unity, MATLAB
 
 ## Education 			        		
-- B.S., Systems and Computer Engineering. Grade: 9.50 | Technological University of Panama (_June 2024_)
+- B.S., Systems and Computer Engineering. Grade: 9.5 | Technological University of Panama (_June 2024_)
 
 ## Work Experience
 **Research intern @ Centre For Automation and Robotics UPM - CSIC (_January 2022 - April 2022_)**
