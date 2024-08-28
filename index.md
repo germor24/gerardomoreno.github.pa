@@ -1,6 +1,6 @@
 # Researcher in Artificial intelligence and Motion Capture
 
-#### Technical Skills: Python, SQL, Databricks, Unity, MATLAB
+#### Technical Skills: Python, Unity, MATLAB, SQL, Databricks.
 
 ## Education 			        		
 - B.S., Systems and Computer Engineering. Grade: 9.5 | Technological University of Panama (_June 2024_)
