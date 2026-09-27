@@ -3,7 +3,7 @@
 #### Technical Skills: Python, Unity, DJANGO, MATLAB, SQL, Databricks.
 
 ## Education 			        		
-- B.S., Systems and Computer Engineering. Grade: 9.5 | Technological University of Panama (UTP) (_June 2024_)
+- B.S., Systems and Computer Engineering. Grade: 9.5 - Technological University of Panama (UTP) (_June 2024_)
 - Sigma Lambda Honor Society Member.
 - First place in the award for the undergraduate thesis with the greatest scientific impact from the School of Computer Systems Engineering, Panama.
 
@@ -27,7 +27,7 @@
 
 Awarded first place for the undergraduate thesis with the greatest scientific impact from the School of Computer Systems Engineering for: “A System Based on a Virtual Environment, Using Non-Invasive Motion Capture as a Support Tool in the Physical Rehabilitation of the Upper Limbs.” The thesis presented a theoretical-practical system applying virtual environments and non-invasive motion capture as a support tool for upper-limb physical rehabilitation. The research was certified by the Institutional Bioethics Committee for Research at the Technological University of Panama and developed with support from the Polytechnic University of Madrid, Spain.
 
-![UTP_award_thesis](/assets/img/award_thesis.png)
+![UTP award thesis](/assets/img/award_thesis.png)
 
 ## Projects
 ### Detection and Diagnosis of Sexually Transmitted Infections in Women Using Computer Vision.
