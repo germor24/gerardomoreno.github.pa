@@ -3,10 +3,10 @@
 #### Technical Skills: Python, Unity, DJANGO, MATLAB, SQL, Databricks.
 
 ## Education 			        		
-- B.S., Systems and Computer Engineering. Grade: 9.5 | Technological University of Panama (_June 2024_)
+- B.S., Systems and Computer Engineering. Grade: 9.5 | Technological University of Panama (UTP) (_June 2024_)
 
 ## Work Experience
-**Research Assistant @ Research Group on eHealth and Supercomputing UTP (_2025 – Present_)**
+**Research Assistant @ Research Group on eHealth and Supercomputing (GISES) - UTP (_2025 – Present_)**
 - Developed a platform for accessing and interacting with AI models provided by the Health Computing and Intelligent Systems (HCIS), supporting collaborative research between the University of Alcalá de Henares, Spain and the Technological University of Panama.
 - Contributed to development and testing activities within Big Data, cloud-native computing, and Artificial Intelligence environments.
 - Participated in the development of technological solutions for an infectious disease research project involving bacterial vaginosis, Chlamydia (Chlamydia trachomatis), gonorrhea (Neisseria gonorrhoeae), syphilis (Treponema pallidum), and other infectious diseases.
