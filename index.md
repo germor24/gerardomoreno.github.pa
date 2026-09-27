@@ -1,11 +1,17 @@
-# Researcher in Artificial intelligence and Motion Capture
+# Researcher in Artificial Intelligence, Computer Vision, and Healthcare
 
-#### Technical Skills: Python, Unity, MATLAB, SQL, Databricks.
+#### Technical Skills: Python, Unity, DJANGO, MATLAB, SQL, Databricks.
 
 ## Education 			        		
-- B.S., Systems and Computer Engineering. Grade: 9.5 | Technological University of Panama (_June 2024_)
+- B.S., Systems and Computer Engineering. Grade: 9.5 | Technological University of Panama (UTP) (_June 2024_)
 
 ## Work Experience
+**Research Assistant @ Research Group on eHealth and Supercomputing (GISES) - UTP (_2025 – Present_)**
+- Developed a platform for accessing and interacting with AI models provided by the Health Computing and Intelligent Systems (HCIS), supporting collaborative research between the University of Alcalá de Henares, Spain and the Technological University of Panama.
+- Contributed to development and testing activities within Big Data, cloud-native computing, and Artificial Intelligence environments.
+- Participated in the development of technological solutions for an infectious disease research project involving bacterial vaginosis, Chlamydia (Chlamydia trachomatis), gonorrhea (Neisseria gonorrhoeae), syphilis (Treponema pallidum), and other infectious diseases.
+- Worked on the integration and deployment of computational and AI-based resources to support research activities in healthcare.
+
 **Research intern @ Centre For Automation and Robotics UPM - CSIC (_January 2022 - April 2022_)**
 - Worked on the development of virtual environments supported by motion capture for the study of upper body kinematics.
 - Study of human musculoskeletal movements with exoskeletons for the analysis of trajectories with respect to standard.
@@ -15,6 +21,15 @@
 - Application of concepts and methodologies for executing service migrations within the Databricks platform.
 
 ## Projects
+### Detection and Diagnosis of Sexually Transmitted Infections in Women Using Computer Vision.
+_In collaboration with the Department of Microbiology at Príncipe de Asturias University Hospital, Madrid, Spain, and the High-Performance Research Group “Health Computing and Intelligent Systems (HCIS)” at the University of Alcalá de Henares._
+
+Research project focused on the application of Computer Vision and Artificial Intelligence to the detection and diagnosis of sexually transmitted infections (STIs) in women. The project explores the use of medical image analysis and AI-based methods to support the identification of infectious diseases, including bacterial vaginosis, Chlamydia (Chlamydia trachomatis), gonorrhea (Neisseria gonorrhoeae), syphilis (Treponema pallidum), and others.
+
+Co-autor of the publication in progress: **Proposal of a scalable polyglot programming-based architecture for the diagnosis of image bacterial infections using artificial intelligence** - International Conference in Information Systems and Medicine (ICISM), Temuco, Chile, March 26–28, 2026.
+
+![Detection Infections AI](/assets/img/Infection_computer_vision.png)
+
 ### Comparison of intrusive and non-intrusive motion capture technologies for upper body kinematic analysis.
 [Publication](https://laccei.org/LACCEI2023-BuenosAires/meta/FP745.html)
 
