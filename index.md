@@ -25,7 +25,7 @@
 ## Awards
 **First Place — Undergraduate Thesis with the Greatest Scientific Impact - 10th UTP Scientific Gala**
 
-Awarded first place for the undergraduate thesis with the greatest scientific impact from the School of Computer Systems Engineering for: “A System Based on a Virtual Environment, Using Non-Invasive Motion Capture as a Support Tool in the Physical Rehabilitation of the Upper Limbs.” The thesis presented a theoretical-practical system applying virtual environments and non-invasive motion capture as a support tool for upper-limb physical rehabilitation. The research was certified by the Institutional Bioethics Committee for Research at the Technological University of Panama and developed with support from the Polytechnic University of Madrid, Spain.
+Awarded first place for the undergraduate thesis with the greatest scientific impact from the School of Computer Systems Engineering for: **“A System Based on a Virtual Environment, Using Non-Invasive Motion Capture as a Support Tool in the Physical Rehabilitation of the Upper Limbs.”** The thesis presented a theoretical-practical system applying virtual environments and non-invasive motion capture as a support tool for upper-limb physical rehabilitation. The research was certified by the Institutional Bioethics Committee for Research at the Technological University of Panama and developed with support from the Polytechnic University of Madrid, Spain.
 
 ![UTP award thesis](/assets/img/award_thesis.jpg)
 
