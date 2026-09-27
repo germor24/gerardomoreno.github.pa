@@ -4,6 +4,8 @@
 
 ## Education 			        		
 - B.S., Systems and Computer Engineering. Grade: 9.5 | Technological University of Panama (UTP) (_June 2024_)
+- Sigma Lambda Honor Society Member.
+- First place in the award for the undergraduate thesis with the greatest scientific impact from the School of Computer Systems Engineering, Panama.
 
 ## Work Experience
 **Research Assistant @ Research Group on eHealth and Supercomputing (GISES) - UTP (_2025 – Present_)**
@@ -19,6 +21,13 @@
 **BI Consultant @ Copa Airlines (_July 2023 - Present_)**
 - Development of intelligent solutions for the transformation and filtering of valuable data through SQL queries and Dataiku's data management system.
 - Application of concepts and methodologies for executing service migrations within the Databricks platform.
+
+## Awards
+**First Place — Undergraduate Thesis with the Greatest Scientific Impact - 10th UTP Scientific Gala**
+
+Awarded first place for the undergraduate thesis with the greatest scientific impact from the School of Computer Systems Engineering for: “A System Based on a Virtual Environment, Using Non-Invasive Motion Capture as a Support Tool in the Physical Rehabilitation of the Upper Limbs.” The thesis presented a theoretical-practical system applying virtual environments and non-invasive motion capture as a support tool for upper-limb physical rehabilitation. The research was certified by the Institutional Bioethics Committee for Research at the Technological University of Panama and developed with support from the Polytechnic University of Madrid, Spain.
+
+![UTP_award_thesis](/assets/img/award_thesis.png)
 
 ## Projects
 ### Detection and Diagnosis of Sexually Transmitted Infections in Women Using Computer Vision.
